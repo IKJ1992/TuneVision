@@ -1,7 +1,7 @@
 # TuneVision
 Where Sound Meets Vision!
 
-<img src="https://github.com/IKJ1992/TuneVision/tree/main/logo/02.png" width="35%" height="35%" align="right" />
+<img src="https://github.com/IKJ1992/TuneVision/tree/main/logo/02.jpg" width="35%" height="35%" align="right" />
 
 
  TuneVision is an innovative service dedicated to producing high-quality music videos that capture the essence of your favorite songs. Our platform combines creativity with technology, allowing artists and music lovers to visualize their music in captivating ways. By leveraging cutting-edge tools and a passionate team, we transform audio experiences into stunning visual narratives that resonate with audiences.
