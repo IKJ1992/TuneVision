@@ -9,5 +9,5 @@ Where Sound Meets Vision!
 At TuneVision, we believe that every song tells a story, and our mission is to bring those stories to life through vibrant visuals and artistic expression. Whether you're an independent artist looking to showcase your work or a brand seeking to enhance your marketing efforts, our service provides the perfect solution for creating engaging music videos that leave a lasting impression. Join us as we explore the beautiful intersection of sound and vision!
 
 
-## Contributing
->coming soon
+## Produced For:
+> Future Founders Start-UP Studio + Start-UP Work Camp!
