@@ -9,11 +9,17 @@ our steps:
 7. merge all of the media
 8. done and enjoy it:)
 """
-
+from embedder import Embedding
 music_meta_text = ''
 
 with open("./meta_data/TakKhal.txt", "r", encoding='utf8') as txt_file:
-    music_meta_text = txt_file.readlines()
+    music_meta_text_list = txt_file.readlines()
 
 
-print(music_meta_text)
+embd = Embedding()
+embd_list = []
+for i in range(len(music_meta_text_list)):
+    embd_list.append(Embedding.sentence_embedding(music_meta_text_list[i]))
+
+
+print(embd_list[0])
